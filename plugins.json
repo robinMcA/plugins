@@ -1729,5 +1729,11 @@
     "description": "(ECR) - Elastic Container Service clusters, services, tasks and application load balancers made easy within your serverless definition.",
     "githubUrl": "https://github.com/hybridless/serverless-ecs-plugin",
     "status": "active"
+  },
+  {
+    "name": "@agiledigital/serverless-sns-sqs-lambda",
+    "description": "Provide the lambda function with the snsSqs event, the plugin will add the AWS SNS topic and subscription, SQS queue and dead letter queue, and the role need for the lambda.",
+    "githubUrl": "https://github.com/agiledigital/serverless-sns-sqs-lambda",
+    "status": "active"
   }
 ]
